@@ -26,3 +26,5 @@ dépôt (`/releases`) lorsque l'utilisateur clique sur "Mettre à jour" dans
 le Setup. Si une release plus récente est trouvée pour le composant
 concerné, l'utilisateur voit les notes de version ci-dessous et peut
 choisir d'installer la mise à jour en un clic.
+
+Voici le pack de base à avoir en premier: https://mega.nz/folder/SZdizYLA#hA2Q0Rxpr4SA9vd9VKglTw
