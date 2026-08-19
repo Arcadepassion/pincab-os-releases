@@ -13,12 +13,15 @@ Si vous installez Pincab OS pour la toute première fois, voici la marche à sui
 
 ⚠️ **TRÈS IMPORTANT :** Ce pack Mega contient la toute première version de Pincab OS. Elle **n'intègre pas encore le système de mise à jour automatique en ligne**.
 
-Pour bénéficier des mises à jour en un clic par la suite, vous devez effectuer **votre première mise à jour manuellement** :
-https://github.com/Arcadepassion/pincab-os-releases/releases#release-setup-v1.0.1
-https://github.com/Arcadepassion/pincab-os-releases/releases#release-frontend-v1.0.1
-Ensuite,
-* Téléchargez la dernière version du **Setup** et du **Frontend** depuis l'onglet *Releases* de cette page GitHub.
-* Extrayez les archives et remplacez manuellement les anciens fichiers dans votre dossier `C:\pincab_os`.
+Pour bénéficier des mises à jour en un clic par la suite, vous devez effectuer **votre première mise à jour manuellement**. Téléchargez les archives des mises à jour initiales ci-dessous :
+* 🔗 **[Mise à jour Setup v1.0.1](https://github.com/Arcadepassion/pincab-os-releases/releases/tag/setup-v1.0.1)**
+* 🔗 **[Mise à jour Frontend v1.0.1](https://github.com/Arcadepassion/pincab-os-releases/releases/tag/frontend-v1.0.1)**
+
+*(Note : Vous pouvez également télécharger la toute dernière version disponible depuis l'onglet **Releases**).*
+
+**Ensuite :**
+1. Extrayez les archives téléchargées.
+2. Remplacez manuellement les anciens fichiers par les nouveaux dans votre dossier `C:\pincab_os`.
 
 Une fois cette opération effectuée, votre système sera à niveau et **toutes les futures mises à jour se feront de manière 100% automatique** directement depuis le Setup !
 
@@ -33,7 +36,7 @@ Les deux composants principaux sont versionnés **indépendamment** : une mise �
 
 ## 🔄 Comment ça marche (Une fois votre système à jour) ?
 
-L'application Pincab OS interrogera automatiquement l'API GitHub de ce dépôt (`/releases`) lorsque vous cliquerez sur "Mettre à jour" depuis l'onglet *Système & Écrans* du Setup. 
+L'application Pincab OS interrogera automatiquement l'API GitHub de ce dépôt (`/releases`) lorsque vous cliquerez sur "Mettre à jour" depuis l'onglet **Système & Écrans** du Setup. 
 
 Si une version plus récente est détectée :
 1. Vous êtes notifié et pouvez lire les nouveautés.
