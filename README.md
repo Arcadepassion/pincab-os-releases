@@ -6,18 +6,25 @@ Il ne contient pas le code source complet du projet — uniquement les binaires 
 
 ## 📥 Installation Initiale (Le Pack de Base)
 
-Si vous installez Pincab OS pour la toute première fois, voici la marche à suivre :
+Si vous installez Pincab OS pour la toute première fois, ou si vous découvrez seulement le Frontend et ses configurations, voici la marche à suivre :
 
-1. 👉 **[Télécharger le Pack de Base complet (Lien Mega)](https://mega.nz/folder/SZdizYLA#hA2Q0Rxpr4SA9vd9VKglTw)**
+1. 👉 **[Télécharger le Pack complet Pincab OS v1.3.0 (Lien Mega)](https://mega.nz/folder/qMs0xAyS#lTSc_4M73SLN1N_Z52gsCw)**
 2. Extrayez ce dossier sur votre machine (idéalement dans `C:\pincab_os`).
 
-⚠️ **TRÈS IMPORTANT :** Ce pack Mega contient la toute première version de Pincab OS. Elle **n'intègre pas encore le système de mise à jour automatique en ligne**.
+✅ **Ce pack regroupe tout en une seule fois** : les fichiers de base ET l'ensemble des fichiers de mises à jour successives, déjà intégrés. Il n'est **plus nécessaire de repasser par toutes les mises à jour antérieures publiées sur GitHub** pour arriver à cette version — un seul téléchargement suffit.
 
-Pour bénéficier des mises à jour en un clic par la suite, vous devez effectuer **votre première mise à jour manuellement**. Téléchargez les archives des mises à jour initiales ci-dessous :
+Il intègre également **le système de mise à jour automatique en ligne**, prêt à l'emploi dès l'extraction.
+
+➡️ **Une fois ce pack installé, votre système est directement à jour en v1.3.0 et toutes les futures mises à jour se feront de manière 100% automatique** directement depuis le Setup, sans aucune manipulation supplémentaire.
+
+### 🕰️ Vous possédez déjà une ancienne installation (antérieure à v1.0.1) ?
+
+Si vous avez la toute première version de Pincab OS installée **avant la mise en place du système de mise à jour automatique**, et que vous préférez ne pas réinstaller depuis le pack complet ci-dessus, vous pouvez toujours effectuer la mise à jour manuelle initiale via GitHub :
+
 * 🔗 **[Mise à jour Setup v1.0.1](https://github.com/Arcadepassion/pincab-os-releases/releases/tag/setup-v1.0.1)**
 * 🔗 **[Mise à jour Frontend v1.0.1](https://github.com/Arcadepassion/pincab-os-releases/releases/tag/frontend-v1.0.1)**
 
-*(Note : Vous pouvez également télécharger la toute dernière version disponible depuis l'onglet **Releases**).*
+*(Note : vous pouvez également télécharger la toute dernière version disponible depuis l'onglet **Releases**.)*
 
 **Ensuite :**
 1. Extrayez les archives téléchargées.
@@ -36,7 +43,7 @@ Les deux composants principaux sont versionnés **indépendamment** : une mise �
 
 ## 🔄 Comment ça marche (Une fois votre système à jour) ?
 
-L'application Pincab OS interrogera automatiquement l'API GitHub de ce dépôt (`/releases`) lorsque vous cliquerez sur "Mettre à jour" depuis l'onglet **Système & Écrans** du Setup. 
+L'application Pincab OS interrogera automatiquement l'API GitHub de ce dépôt (`/releases`) lorsque vous cliquerez sur "Mettre à jour" depuis l'onglet **Système & Écrans** du Setup.
 
 Si une version plus récente est détectée :
 1. Vous êtes notifié et pouvez lire les nouveautés.
