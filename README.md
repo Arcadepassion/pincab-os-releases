@@ -6,7 +6,7 @@ Il ne contient pas le code source complet du projet — uniquement les binaires 
 📥 Installation Initiale (Le Pack de Base)
 Si vous installez Pincab OS pour la toute première fois, ou si vous découvrez seulement le Frontend et ses configurations, voici la marche à suivre :
 
-👉 [Télécharger le Pack complet Pincab OS v1.3.1 (Lien Mega)](https://mega.nz/folder/iRkSmIqA#ITEhf_65_57Hd_xFIL6tWA)
+👉 [Télécharger le Pack complet Pincab OS v1.3.2 (Lien Mega)](https://mega.nz/folder/HA1SiSra#oIJbCcFQEDHo1p6EBZzTcA)
 Extrayez ce dossier sur votre machine (idéalement dans C:\pincab_os).
 ✅ Ce pack regroupe tout en une seule fois : les fichiers de base ET l'ensemble des fichiers de mises à jour successives, déjà intégrés. Il n'est plus nécessaire de repasser par toutes les mises à jour antérieures publiées sur GitHub pour arriver à cette version — un seul téléchargement suffit.
 
