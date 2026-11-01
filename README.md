@@ -10,7 +10,7 @@ Il ne contient pas le code source complet du projet — uniquement les archives 
 
 Si vous installez Pincab OS pour la toute première fois, voici la marche à suivre :
 
-👉 **[Télécharger le Pack complet Pincab OS v1.4.0 (lien Mega)](https://mega.nz/file/jY10hJwC#9oUteHOEjhAPu8jhIyYin0OMwV8nVuGxejwsshTAaQ0)**
+👉 **[Télécharger le Pack complet Pincab OS v1.4.0 (lien Mega)](https://mega.nz/file/fYlRyCiD#y8Ltma2S-uAbZVvq7Xx7aeQUy2VXax7JJYhW3NZTYI8)**
 
 1. Extrayez l'archive **directement sur `C:\`** : vous obtenez le dossier `C:\pincab_os`.
 2. Lancez **`Pincab Setup.exe`** et réglez vos écrans, vos chemins Visual Pinball et vos contrôles, puis cliquez sur **ENREGISTRER**.
